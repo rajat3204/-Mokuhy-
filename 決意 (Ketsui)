@@ -10,4 +10,5 @@ I have defined the max-size: "2048m" option for a service in my Docker Compose f
 > temporary solution is = restart the svc
 How to migrate the mongodb continer to mongoatlas or vice versa
 How to create user in linux that have only read access in the linux server
-
+HA proxy
+Node setup 
