@@ -6,3 +6,8 @@ Oracle-Database
 k8s
 Nginx-Loadbalancing
 How to increase the disk space of the existing ec2 instance
+I have defined the max-size: "2048m" option for a service in my Docker Compose file, but now the memory is full and the queue is full. What are the possible solutions to address this issue?
+> temporary solution is = restart the svc
+How to migrate the mongodb continer to mongoatlas or vice versa
+How to create user in linux that have only read access in the linux server
+
