@@ -15,3 +15,5 @@ How to migrate the mongodb continer to mongoatlas or vice versa
 How to create user in linux that have only read access in the linux server
 HA proxy
 Node setup 
+Route traffic to two backend server to their two contaries like us ip goes to server1 and indiaIP goies to server2
+Loadbalancing using nginx, 
